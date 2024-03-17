@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "download (5)",
+  "identifier": "texture:1194-f54d3b9e-d5bb-44d1-8f82-6fdbd8071127",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "1d3220c9abbb3a65da646581ab6a75b9",
+  "assetLocator": "textures/download (5).jpeg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 301,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 167,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "1d3220c9abbb3a65da646581ab6a75b9",
+      "colorCount": 23492,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 12.870171168138459,
+      "pixelsHigh": 301,
+      "pixelsWide": 167
+    }
+  ]
+}
